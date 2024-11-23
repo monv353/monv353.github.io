@@ -13,6 +13,10 @@ body {
     padding-left: 20px;
 }
 
+li {
+    margin-left: 50px;
+}
+
 
 /* Welcome section styles */
 .container {
@@ -74,8 +78,5 @@ a:hover {
 
     footer p {
         font-size: 0.8rem;
-    }
-    li {
-        margin-left: 50px;
     }
 }
