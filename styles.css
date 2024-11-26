@@ -79,4 +79,8 @@ a:hover {
     footer p {
         font-size: 0.8rem;
     }
+
+    .navbar-nav .nav-link {
+        padding-left: 20px;
+    }
 }
