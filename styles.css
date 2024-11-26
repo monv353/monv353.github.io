@@ -71,7 +71,7 @@ a:hover {
     text-align: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991.998px) {
     header h1 {
         font-size: 1.5rem;
     }
@@ -81,6 +81,6 @@ a:hover {
     }
 
     .navbar-nav .nav-link {
-        padding-left: 20px;
+        margin-left: 20px;
     }
 }
